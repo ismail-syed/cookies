@@ -1,5 +1,5 @@
 {
-  "name": "react-cookie",
+  "name": "react-cookie-esm-fix",
   "version": "4.0.4",
   "description": "Universal cookies for React",
   "main": "cjs/index.js",
